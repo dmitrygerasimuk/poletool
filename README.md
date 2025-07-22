@@ -120,7 +120,7 @@ MISMATCH: header count = 50, actual = 42
 
 ## 🧷 Author
 
-- Ported to C by **[Dmitry Gerasimyuk]**
+- Ported to C by **[Dmitry Gerasimuk]**
 - Original code: **Genjitsu Gadget Lab (C#)**
 
 ---
